@@ -1,2 +1,16 @@
 # ZPRuntime
-本Demo主要介绍了Runtime运行时的概念以及objc_msgSend函数的作用，还介绍了Runtime运行时的五大用途，还介绍了Runtime运行时常用的API的使用方法。
+本Demo主要介绍了Runtime运行时的概念以及objc_msgSend函数的作用，还介绍了Runtime运行时的五大用途，还介绍了Runtime运行时常用的API的使用方法(original)。
+
+Runtime运行时在项目中的五个作用：
+
+1、动态改变对象的属性值；
+
+2、动态交换方法；
+
+3、动态添加方法；
+
+4、为分类增加实例变量；
+
+5、使用运行时方式封装对象。
+
+视频路径：逻辑教育——>付费课——>iOS进阶到项目实战——>正式视频——>20190225-第一讲-Runtime底层原理分析。
